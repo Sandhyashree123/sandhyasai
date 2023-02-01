@@ -6,6 +6,8 @@ public class Sample {
 		// TODO Auto-generated method stub
 		String s = "shrini";
 		System.out.println(s);
+		boolean empty = s.isEmpty();
+		System.out.println(empty);
 	}
 
 }
